@@ -20,4 +20,6 @@ pub fn run() {
 
     // Basic Math
     println!("5 + 6 = {}", 5 + 6);
+
+// Instructions: cargo run
 }
